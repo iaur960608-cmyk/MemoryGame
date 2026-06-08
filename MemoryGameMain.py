@@ -3,7 +3,7 @@ from tkinter import messagebox
 import random
 import time
 
-
+# Author: s1140385, 朱建諭
 ####################################
 # Card 類別
 # 繼承 Button
